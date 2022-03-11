@@ -44,4 +44,5 @@ public class CustomListTest {
         list.hasCity(testCity);
         assertTrue(list.hasCity(testCity));
     }
+
 }
